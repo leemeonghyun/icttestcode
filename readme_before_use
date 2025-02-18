@@ -1,0 +1,21 @@
+# 🚀 DRF + FastAPI 기반 OpenAPI 프로젝트
+
+## 1️⃣ 프로젝트 소개
+이 프로젝트는 **Django REST Framework(DRF)와 FastAPI**를 결합하여 **로그인/소셜 로그인, 번역, 키워드 분류, 에러 핸들링** 기능을 제공하는 OpenAPI 서버입니다.
+
+- DRF: 인증 및 데이터베이스 관리 (JWT, OAuth 지원)
+- FastAPI: 고속 API 응답 및 번역/키워드 분류 처리
+- OpenAI API 활용: 자연어 처리(NLP) 기능 제공
+
+---
+
+## 2️⃣ 기술 스택
+- **Backend:** Django REST Framework, FastAPI
+- **Database:** Oracle
+- **Auth:** JWT, OAuth 2.0 (Google, Kakao, Naver 지원)
+
+---
+
+
+
+
